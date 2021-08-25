@@ -92,11 +92,9 @@
     <img class="tech" alt="Firefox" width="50px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRisquez&count_private=true&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=PedroRisquez&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRisquez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroRisquez)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRisquez&layout=compact)
 
 
 
