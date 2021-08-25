@@ -92,4 +92,5 @@
     <img class="tech" alt="Firefox" width="50px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
 </div>
 
-<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PedroRisquez&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRisquez&count_private=true)
+
