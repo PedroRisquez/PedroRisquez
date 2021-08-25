@@ -6,6 +6,7 @@
   <ul>
     <li><a href="#connect-with-me">Connect with me</a></li>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
+    <li><a href="#stats">Stats</a></li>
     <!-- <li><a href="#website">Website</a></li> -->
   </ul>
 </details>
@@ -91,6 +92,8 @@
     <img class="tech" alt="Chrome" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/chrome/chrome.png" />
     <img class="tech" alt="Firefox" width="50px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
 </div>
+
+## Stats
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRisquez&count_private=true&show_icons=true)
 
